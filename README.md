@@ -52,9 +52,13 @@ I enjoy building scalable systems, improving developer workflows, and working wi
 
 ##  GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CydaCode\&show_icons=true\&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=CydaCode&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CydaCode\&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CydaCode&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CydaCode&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CydaCode&theme=github)
 
 ---
 
